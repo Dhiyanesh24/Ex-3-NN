@@ -101,6 +101,7 @@ predict(w1,w2,test)
 ```
 <H3>Output:</H3>
 <img src="https://github.com/user-attachments/assets/2b9a0930-5a4c-4374-850e-ef5a115b5e60">
+
 <img src="https://github.com/user-attachments/assets/762e16da-db4b-47f0-bfc7-84a10c62d094">
 
 <H3> Result:</H3>
